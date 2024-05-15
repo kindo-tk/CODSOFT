@@ -3,7 +3,7 @@
 <hr>
 Welcome to my Data Science Internship Portfolio at CodSoft! This repository contains a collection of projects that demonstrate my skills in data analysis, machine learning, and problem-solving. Below is a summary of the projects:
 
-## Titanic Survival Detection
+## Titanic Survival Prediction
 
 **Description:** This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
 

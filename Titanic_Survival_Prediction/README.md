@@ -10,7 +10,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 
 ## Dataset
 
-The <a href = "https://github.com/kindo-tk/CODSOFT/blob/main/Titanic_Survival_Detection/Titanic-Dataset.csv">dataset</a> used in this project is the famous Titanic dataset, which is widely used for machine learning and data analysis purposes. It contains various features such as passenger class, age, sex, fare, and whether the passenger survived or not.
+The dataset used in this project is the famous <a href = "https://github.com/kindo-tk/CODSOFT/blob/main/Titanic_Survival_Prediction/Titanic-Dataset.csv"> `Titanic dataset`</a>, which is widely used for machine learning and data analysis purposes. It contains various features such as passenger class, age, sex, fare, and whether the passenger survived or not.
 
 ## Project Structure
 

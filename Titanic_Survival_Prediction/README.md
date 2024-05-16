@@ -23,7 +23,7 @@ The dataset used in this project is the famous <a href = "https://github.com/kin
 
 ## Results
 
-The final model achieves 76% on the test set, demonstrating its effectiveness in predicting passenger survival.
+The final model achieves 77% on the test set, demonstrating its effectiveness in predicting passenger survival.
 
 ## Conclusion
 

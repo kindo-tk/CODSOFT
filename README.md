@@ -26,13 +26,10 @@ Welcome to my Data Science Internship Portfolio at CodSoft! This repository cont
 Each project folder contains detailed documentation and code files showcasing the analysis, methodology, and results.
 
 Thank you for visiting my portfolio & reviewing my submission!
-## 📬 Contact
 
-Questions or suggestions?
+## Contact Information
+For any inquiries or feedback, please contact:
 
-Reach out to me:
-<br>
-<a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-<br>
-Email: tufan.kundu11@gmail.com
+- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
+- Email: tufan.kundu11@gmail.com
 

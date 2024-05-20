@@ -7,7 +7,7 @@ Welcome to my Data Science Internship Portfolio at CodSoft! This repository cont
 
 **Description:** This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
 
-## Movie Rating Prediction with Python
+## <a href = "https://github.com/kindo-tk/CODSOFT/tree/main/Movie_Rating_Prediction">Movie Rating Prediction with Python</a>
 
 **Description:** In this project, I built a movie rating prediction system using Python. The project includes data collection, preprocessing, and the development of a machine-learning model to predict movie ratings.
 

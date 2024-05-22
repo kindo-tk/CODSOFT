@@ -19,7 +19,7 @@ Welcome to my Data Science Internship Portfolio at CodSoft! This repository cont
 
 **Description:** This project focuses on predicting sales for a business. It includes data preprocessing, exploratory data analysis, and the development of a predictive model to forecast future sales.
 
-## Credit Card Fraud Detection
+## <a href = "https://github.com/kindo-tk/CODSOFT/tree/main/Credit_card_fraud_detection">Credit Card Fraud Detection</a>
 
 **Description:** In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
 <br>

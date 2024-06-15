@@ -1,5 +1,5 @@
 # CodSoft Data Science Internship Portfolio
-<img src = "https://github.com/kindo-tk/images/blob/main/download.png">
+
 <hr>
 Welcome to my Data Science Internship Portfolio at CodSoft! This repository contains a collection of projects that demonstrate my skills in data analysis, machine learning, and problem-solving. Below is a summary of the projects:
 
